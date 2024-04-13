@@ -1,7 +1,7 @@
 ## Detection and classification of ground-based cloud images
 The algorithm contains two steps: threshold image segmentation to divide the images into areas of interest - clouds - and background, and identification of cloud types, using Leave-one-out method, based on descriptors extracted from the segmented areas.
 The set of images from the used database includes 32 images of clouds that can be classified as Cumulus clouds, Cirrus clouds, clear sky or Stratus cloud images. There are two archives in this project that contain images: 2GT_img.rar and images.rar. images.rar contains 32 RGB images, while 2GT_img.rar contains 32 binary masks that correspond to the 32 original images. The binary masks are used to determine the accuracy of the segmentation algorithm that I chose to implement.
-The first image represents an original sky image, the second one represents a segmented image - with the implemented HYTA algoritm, and the third one is a binary mask - the manually segmented image.
+The first image represents an original sky image, the second one represents its segmented version - with the implemented HYTA algoritm, and the third one is a binary mask - the manually segmented image.
 
 ![image](https://github.com/ralucahabuc08/Cloud-segmentation_classification/assets/129282165/8f901d95-566a-4bc7-affd-236ce6eb7d0d)
 ![image](https://github.com/ralucahabuc08/Cloud-segmentation_classification/assets/129282165/2b095c60-d990-4c01-a8e2-9e759b462edb)
