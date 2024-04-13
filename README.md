@@ -6,15 +6,7 @@ The set of images from the used database includes 32 images of clouds that can b
 ![image](https://github.com/ralucahabuc08/Cloud-segmentation_classification/assets/129282165/2b095c60-d990-4c01-a8e2-9e759b462edb)
 ![image](https://github.com/ralucahabuc08/Cloud-segmentation_classification/assets/129282165/d7b103ac-1943-431a-b832-95574fc333ae)
 
-<center>
 
-![Imagine 1](https://github.com/ralucahabuc08/Cloud-segmentation_classification/assets/129282165/8f901d95-566a-4bc7-affd-236ce6eb7d0d)
-
-![Imagine 2](https://github.com/ralucahabuc08/Cloud-segmentation_classification/assets/129282165/2b095c60-d990-4c01-a8e2-9e759b462edb)
-
-![Imagine 3](https://github.com/ralucahabuc08/Cloud-segmentation_classification/assets/129282165/d7b103ac-1943-431a-b832-95574fc333ae)
-
-</center>
 
 #### Segmentation
 The image set used contains unimodal and bimodal images. The present work follows the HYTA (Hybrid Thresholding Algorithm) algorithm, which combines fixed thresholding segmentation methods, which give good results for stratiform clouds and clear skies - unimodal images, with adaptive thresholding segmentation methods, which give good results for thin clouds - bimodal images. The following image represents the scheme of the hybrid cloud image segmentation algorithm.
