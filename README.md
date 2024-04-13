@@ -27,3 +27,5 @@ The minimum Euclidean distance determined between the training image and the tes
 
 For easier manipulation and understanding of the classification results, a confusion matrix is used:
 ![image](https://github.com/ralucahabuc08/Cloud-segmentation_classification/assets/129282165/ddccd8cf-432b-4334-b7b4-bd9eee515313)
+
+The project contains the original code - saved in an '.mlx' file (which cannot be previewed in GitHub) and the preview file - '.m'.
